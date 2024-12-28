@@ -1,0 +1,55 @@
+*{
+    padding:0;
+    margin:0;
+}
+.links{
+    text-align: center;
+    background-color: beige;
+    height: 20px;
+    
+}
+a{
+    padding:30px
+}
+.header{
+    background-color:beige ;
+}
+#two{
+    background-color: aqua;
+    height: 1px;
+}
+#one{
+    color: brown;
+}
+.books{
+    
+    border-width: 10px;
+    border-color:black;
+    border-style: solid;
+    display:inline;
+
+}
+.tan{
+    border-color:darkturquoise;
+    border-style: solid;
+    display:inline-block;
+    padding:5%;
+    margin-top: 2%;
+}
+.ten{
+    background-color: antiquewhite;
+}
+.five{
+    text-align: center;
+}
+@media screen(max-width:450px) {
+    
+}
+    
+}
+
+
+
+
+
+
